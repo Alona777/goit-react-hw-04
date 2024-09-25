@@ -3,7 +3,7 @@ import axios from "axios";
 const instance = axios.create({
   baseURL: "https://api.unsplash.com/",
   headers: {
-    Authorization: "Client-ID hLnmbqNZQS7MSK92WKWpVGwbGHJ-blJdyE--2RKExIM", // Укажи свой ключ
+    Authorization: "Client-ID OhKHRAvK4NuzRp3LcFryqwSZ6N1NQs5V5oYCT--1iYs", 
   },
 });
 
